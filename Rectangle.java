@@ -1,5 +1,5 @@
 //Name: Konnie Detoudom
-//Project 5
+//Project 6
 
 public class Rectangle {
 
@@ -70,7 +70,7 @@ public class Rectangle {
 	
 	public String toString()
 	{
-		return("Length: " + length + "Width: " + width);
+		return(length + "  " + width);
 	}
 	
 	//add an equals method
